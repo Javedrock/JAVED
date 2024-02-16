@@ -1,2 +1,2 @@
-let message = "Hello, world!";
-console.log(message); # JAVED
+let parsonName= "Hello, Javed, would you like to learn TypeScript!";
+console.log(parsonName); # JAVED
